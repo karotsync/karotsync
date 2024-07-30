@@ -5,5 +5,5 @@ lucky trading
 - Discord : @dcityuknow                                               
 - Github: https://github.com/karotsync
 - X: https://x.com/karotsync
-- Services: https://axmewmew.gitbook.io/services/                         
+- Services: https://karotsync.gitbook.io/docs/                        
 - email: huy94dcity@gmail.com      
